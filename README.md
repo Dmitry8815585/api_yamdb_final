@@ -1,5 +1,10 @@
 # Описание проекта: YaMDb
 
+## Стек навыков проекта "YaMDb"
+## Стек навыков проекта "YaMDb"
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4B32C3?style=for-the-badge&logo=github-actions&logoColor=white) ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=apiary&logoColor=white) ![JSON API](https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white) ![Unit Testing](https://img.shields.io/badge/Unit_Testing-0DB7ED?style=for-the-badge&logo=jest&logoColor=white) ![Tasks Tracking Systems](https://img.shields.io/badge/Tasks_Tracking_Systems-00BFFF?style=for-the-badge&logo=trello&logoColor=white)
+
+
 Проект YaMDb предназначен для сбора отзывов пользователей о различных произведениях. Произведения разделены на категории, такие как "Книги," "Фильмы," и "Музыка." Добавлять произведения, категории и жанры могут только администраторы.
 
 Благодарные или недовольные пользователи могут оставлять текстовые отзывы к произведениям и ставить им оценки по шкале от одного до десяти (целые числа). Эти пользовательские оценки используются для расчета средней оценки произведения, также известной как рейтинг (целое число). Каждый пользователь может оставить только один отзыв на произведение. Пользователи также могут оставлять комментарии к отзывам.
